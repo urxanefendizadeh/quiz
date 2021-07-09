@@ -1,0 +1,10 @@
+1)cavab: 20;
+2)cavab:undefined;
+3)cavab:3;
+4)cavab:b;
+5)cavab: error;
+6)cavab:
+7)cavab: 2;
+8)cavab: hello;
+9)cavab:error;
+10)cavab:BMW;
